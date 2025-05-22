@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Dan9
+# 👋 ¡Hola! Soy Dani
 
 Soy un **Científico de Datos** y **Especialista en Inteligencia Artificial** apasionado por transformar datos en conocimiento y construir soluciones inteligentes. Mi experiencia abarca desde el análisis exploratorio de datos y el machine learning tradicional hasta el desarrollo de sistemas de IA avanzados, con un enfoque particular en la **IA generativa**, **sistemas multiagente** y técnicas de **RAG (Retrieval Augmented Generation)**.
 
